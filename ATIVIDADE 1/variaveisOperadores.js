@@ -7,6 +7,6 @@ let multi = (num_A / num_B);
 let divisao = (num_A * num_B);
 
 console.log (`Resultado da Soma e: ${soma}`)
-console.log (`Resultado da Soma e: ${subtracao}`)
-console.log (`Resultado da Soma e: ${multi}`)
-console.log (`Resultado da Soma e: ${divisao}`)
+console.log (`Resultado da Subtracao e: ${subtracao}`)
+console.log (`Resultado da Multiplicacao e: ${multi}`)
+console.log (`Resultado da Divisao e: ${divisao}`)
