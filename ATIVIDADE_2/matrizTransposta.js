@@ -3,7 +3,7 @@ var A =[
     [5 , 3 , 4],
     [8 , 2 , 5]
 ]
-console.log("Matriz Original")
+console.log("Matriz Original");
 
 for(let i = 0; i < A.length; i++){
     console.log(A[i].join(' '))
