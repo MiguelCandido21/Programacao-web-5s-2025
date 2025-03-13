@@ -3,7 +3,7 @@ function verificarNumeroPrimo(n){
         return false;
     }
     for (let i = 3; i < n; i +=2){
-        if(n % i == 0 && i != 1 && i != n){
+        if(n % i == 0 ){
             return false;
         }
         
